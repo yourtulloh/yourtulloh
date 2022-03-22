@@ -1,7 +1,11 @@
-![yourtulloh GitHub stats](https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/yourtulloh)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourtulloh%2Fhit-counter&count_bg=%23E84E4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-`t.me/Drivecok`
+![yourtulloh GitHub stats](https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true)
+
+![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+```html
+https://t.me/Drivecok
+```
 
 
 <div align="left">
