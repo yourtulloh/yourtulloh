@@ -85,12 +85,22 @@ app.run()
         height="48"
       />
     </a>
+    </div>
+  <div>
     <a href="https://heroku.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/heroku.svg"
         alt="Heroku"
         width="58"
         height="48"
+      />
+    </a>
+    <a href="https://railway.app" target="_blank">
+      <img
+        src="https://railway.app/brand/logo-light.png"
+        alt="Railway"
+        width="55"
+        height="55"
       />
     </a>
     <a href="https://ubuntu.com" target="_blank">
