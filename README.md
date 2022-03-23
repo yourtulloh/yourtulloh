@@ -71,10 +71,10 @@ app.run()
     </a>
     <a href="https://github.com" target="_blank">
       <img
-        src="https://elias.eu.org/img/skills/github.svg"
+        src="https://raw.githubusercontent.com/yourtulloh/yourtulloh/master/GitHub-Mark-Light-120px-plus.png"
         alt="GitHub"
-        width="58"
-        height="48"
+        width="45"
+        height="45"
       />
     </a>
     <a href="https://docker.com" target="_blank">
