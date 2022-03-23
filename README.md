@@ -111,6 +111,14 @@ app.run()
         height="48"
       />
     </a>
+    <a href="https://www.debian.com" target="_blank">
+      <img
+        src="https://www.debian.org/logos/openlogo-nd-100.png"
+        alt="Debian"
+        width="40"
+        height="45"
+      />
+    </a>
   </div>
 </div>
 
