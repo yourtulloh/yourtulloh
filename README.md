@@ -2,13 +2,23 @@
 
 ![yourtulloh GitHub stats](https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true)
 
-![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<div align="right">
+  <div>
+    <a href="https://t.me/Drivecok" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         alt="telegram"/>
+      </a>
+  </div>
+</div>
+
 ```html
 https://t.me/Drivecok
+https://my.drivecok.eu.org
+https://yourtulloh.my.id
 ```
 
-
-<div align="left">
+<br>
+<div align="center">
   <div>
     <a href="https://python.org/" target="_blank">
       <img
