@@ -2,13 +2,13 @@
 
 <div align="center">
   <div>
-    <a href="https://t.me/Drivecok" target="_blank">
+    <a href="https://github.com/yourtulloh" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true"
-         alt="telegram"/>
+         alt="github stats"/>
     </a>
   </div>
 </div>
-
+<br>
 <div align="right">
   <div>
     <a href="https://t.me/Drivecok" target="_blank">
@@ -17,6 +17,7 @@
     </a>
   </div>
 </div>
+
 
 ```html
 app.run()
