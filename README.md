@@ -20,7 +20,70 @@
 
 
 ```html
-app.run()
+SANTOON TV - Episode 55 "Ocehan Tono"
+
+Hai kamu!
+Iya Kamu!
+Kamu yang sedang menatap layar ini ...
+
+Kamu yang mungkin dirundung masalah
+Kamu yang mungkin sedang mengikat kembali asa
+Kamu yang mungkin sedang Tidak baik baik saja ...
+
+Aku mungkin tidak mengenal kamu
+Dan kamu mungkin tidak mengenal aku
+Tapi aku sangat bersyukur ada kamu
+Sebab, kamu begitu berharga ...
+
+Meskipun dunia ini tidak berputar untuk kamu
+Namun ingatlah
+Sukacita akan senantiasa berputar disekitarmu
+Mungkin dunia ini tidak indah bagimu
+Namun ingatlah
+Sesungguhnya kamu, ialah keindahan untuk dunia ini ...
+
+Hai kamu yang sedang Tidak baik baik saja
+Janganlah senantiasa menunduk lesu
+Sebab, mahkota keelokanmu akan jatuh
+Dan matamu akan selalu tertuju pada tanah yang gersang dan batu yang bisu ...
+
+Lekas dongakkan kepalamu
+Kenakanlah kasutmu
+Tataplah langit biru dan melangkahlah
+Meskipun hanya sejengkal langkah
+Kamu sudah maju setapak ...
+
+Sekalipun janganlah membandingkan dirimu dengan orang lain
+Sebab, kamu tidak makan dari lumbung padinya dan dia juga tidak makan dari lumbung padimu ...
+
+Tidaklah elok jika kamu senang mendambakan buku cerita orang lain
+Sedangkan buku ceritamu juga diminati oleh orang lain ...
+
+Derita mempunyai hikmat dan pilu memberikan kebijaksanaan yang nikmat
+Badai dilaut dan terjangan ombak samudera
+Melahirkan pelaut yang ulung
+Ingatlah
+Badai ini pun pasti akan berlalu ...
+
+Kucuran air mata bukanlah pertanda lemah
+Luka trauma bukanlah aib yang resah
+Kamu bukan lemah
+Hanya lelah ...
+
+Rehatlah sejenak untuk melenyapkan penat
+Namun janganlah larut dalam duka melarat ...
+
+Hai kamu!
+Yang sedang Tidak baik baik saja
+Sini biar Tono yang peluk kamu aja
+Atau mungkin kita bisa duduk dan bicara sekejap saja ...
+
+Cukup sampai disini saja ya!
+
+Hai kamu!
+Yang Akan baik baik saja ...
+
+Sekian.
 ```
 
 <br>
